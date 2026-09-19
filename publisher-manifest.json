@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "a2d3c80d143334d80ff2c5e1",
+  "owner": "wyeueuajy",
+  "repo": "page-a8541810f95ac9adc7b47d8d",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a8541810f95ac9adc7b47d8d",
+      "a": "少数派",
+      "b": "小火箭节点",
+      "entity": "少数派",
+      "brand": "小火箭节点",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ab87a2bc655000bc710afdf9f662004060e92f70098b676be35d33897bdd5700",
+      "content": {
+        "primary_entity": "少数派",
+        "keyword1": "少数派",
+        "keyword2": "小火箭节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，手机、电脑与路由器可分别配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选套餐配客户端",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档方案，支持多设备同时在线与流媒体解锁，按月或按年订阅，适合按设备规模与流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和订阅周期三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供 IPLC 专线或 VIP 高带宽节点，适合游戏加速与高并发场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，年付价格低于按月累计，订阅周期越长单月成本越低。",
+          "AI_FEATURE_TITLE_1": "流量与设备数",
+          "AI_FEATURE_TITLE_2": "线路类型差异",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅，三步完成上手。",
+          "AI_GUIDE_TITLE": "三步配置使用",
+          "AI_HERO_INTRO": "少数派为海外加速场景提供多档订阅方案，覆盖基础流量到高带宽专线需求。按设备数量、流量用量与线路偏好选择套餐，再配合对应客户端完成订阅配置即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配设备与流量",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省成本",
+          "AI_PLANS_INTRO": "基础版适合单人或少量设备，旗舰版适合多设备与流媒体，团队版面向高流量与团队协作。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版和团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与客户端列表，确认当前设备可以配置订阅。",
+          "AI_STEP_TEXT_3": "按对应客户端的配置文档导入订阅地址，完成连接设置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "少数派套餐灵活选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅？",
+          "AI_FAQ_ANSWER_1": "在对应客户端中选择从链接导入，粘贴购买后获得的订阅地址，保存并更新节点列表。",
+          "AI_FAQ_QUESTION_2": "最多能同时几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线，超出会挤掉旧设备。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相比月付更划算，基础版年付150元、旗舰版350元、团队版850元，相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "当月流量耗尽后可等待下月重置，或升级至更高版本获取更多流量。",
+          "AI_FAQ_QUESTION_5": "支持哪些设备系统？",
+          "AI_FAQ_ANSWER_5": "主流桌面和移动系统都有对应客户端，具体以客户端文档说明为准，建议先查看适配要求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4747410a5db5eb5db27be73d456dc5d03534772df07ccc73dc7f65fed9362dd7",
+    "sitemap.xml": "e40fb4ed068d34931715b97f957fb4407b3f75094d8b60db5985d90e28d98e7b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9cf7b657e04ee529fac4ba9bb301f55bc61c88b748438be81c03a3ec4456d18b"
+}
